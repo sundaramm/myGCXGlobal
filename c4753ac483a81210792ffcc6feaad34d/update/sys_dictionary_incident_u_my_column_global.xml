@@ -58,7 +58,7 @@
         <sys_scope display_value="my Git Global App">c4753ac483a81210792ffcc6feaad34d</sys_scope>
         <sys_update_name>sys_dictionary_incident_u_my_column_global</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-09-05 10:37:51</sys_updated_on>
+        <sys_updated_on>2024-09-05 11:38:18</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
