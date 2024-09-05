@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="email_client=true,hasWorkflow=true,live_feed=true,all_tables.query_hints=true" audit="true" db_object_id="3a248d7b8d820210d0ad51af41866369" extends="task" label="Incident" max_length="40" name="incident" text_index="true" type="collection">
+        <element label="My Column Global" max_length="40" name="u_my_column_global" type="string"/>
+        <element label="My Column" max_length="40" name="u_my_column" type="string"/>
+    </element>
+</database>
